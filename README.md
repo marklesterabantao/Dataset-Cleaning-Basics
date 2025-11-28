@@ -1,8 +1,6 @@
 # Dataset-Cleaning-Basics
 Basic dataset cleaning examples in Python: handling missing values, outliers, and encoding categorical data using pandas.
 
-# Dataset Cleaning Basics
-
 This repository contains basic examples of dataset cleaning in Python using pandas.  
 It focuses on three common and important tasks:
 
